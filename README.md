@@ -6,4 +6,5 @@ Then whichever project you want to run, navigate in the CLI to the corresponding
 Run the commands below: 
 
 `dotnet build`
+
 `dotnet run`
