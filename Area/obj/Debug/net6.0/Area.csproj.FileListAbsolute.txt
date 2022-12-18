@@ -1,0 +1,15 @@
+/home/samuel/SololearnCSharp/Area/bin/Debug/net6.0/Area
+/home/samuel/SololearnCSharp/Area/bin/Debug/net6.0/Area.deps.json
+/home/samuel/SololearnCSharp/Area/bin/Debug/net6.0/Area.runtimeconfig.json
+/home/samuel/SololearnCSharp/Area/bin/Debug/net6.0/Area.dll
+/home/samuel/SololearnCSharp/Area/bin/Debug/net6.0/ref/Area.dll
+/home/samuel/SololearnCSharp/Area/bin/Debug/net6.0/Area.pdb
+/home/samuel/SololearnCSharp/Area/obj/Debug/net6.0/Area.csproj.AssemblyReference.cache
+/home/samuel/SololearnCSharp/Area/obj/Debug/net6.0/Area.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/SololearnCSharp/Area/obj/Debug/net6.0/Area.AssemblyInfoInputs.cache
+/home/samuel/SololearnCSharp/Area/obj/Debug/net6.0/Area.AssemblyInfo.cs
+/home/samuel/SololearnCSharp/Area/obj/Debug/net6.0/Area.csproj.CoreCompileInputs.cache
+/home/samuel/SololearnCSharp/Area/obj/Debug/net6.0/Area.dll
+/home/samuel/SololearnCSharp/Area/obj/Debug/net6.0/ref/Area.dll
+/home/samuel/SololearnCSharp/Area/obj/Debug/net6.0/Area.pdb
+/home/samuel/SololearnCSharp/Area/obj/Debug/net6.0/Area.genruntimeconfig.cache

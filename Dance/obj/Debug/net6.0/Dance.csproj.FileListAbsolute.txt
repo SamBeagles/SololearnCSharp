@@ -1,0 +1,15 @@
+/home/samuel/SololearnCSharp/Dance/bin/Debug/net6.0/Dance
+/home/samuel/SololearnCSharp/Dance/bin/Debug/net6.0/Dance.deps.json
+/home/samuel/SololearnCSharp/Dance/bin/Debug/net6.0/Dance.runtimeconfig.json
+/home/samuel/SololearnCSharp/Dance/bin/Debug/net6.0/Dance.dll
+/home/samuel/SololearnCSharp/Dance/bin/Debug/net6.0/ref/Dance.dll
+/home/samuel/SololearnCSharp/Dance/bin/Debug/net6.0/Dance.pdb
+/home/samuel/SololearnCSharp/Dance/obj/Debug/net6.0/Dance.csproj.AssemblyReference.cache
+/home/samuel/SololearnCSharp/Dance/obj/Debug/net6.0/Dance.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/SololearnCSharp/Dance/obj/Debug/net6.0/Dance.AssemblyInfoInputs.cache
+/home/samuel/SololearnCSharp/Dance/obj/Debug/net6.0/Dance.AssemblyInfo.cs
+/home/samuel/SololearnCSharp/Dance/obj/Debug/net6.0/Dance.csproj.CoreCompileInputs.cache
+/home/samuel/SololearnCSharp/Dance/obj/Debug/net6.0/Dance.dll
+/home/samuel/SololearnCSharp/Dance/obj/Debug/net6.0/ref/Dance.dll
+/home/samuel/SololearnCSharp/Dance/obj/Debug/net6.0/Dance.pdb
+/home/samuel/SololearnCSharp/Dance/obj/Debug/net6.0/Dance.genruntimeconfig.cache

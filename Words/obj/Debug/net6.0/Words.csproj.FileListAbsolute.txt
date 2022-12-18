@@ -1,0 +1,15 @@
+/home/samuel/SololearnCSharp/Words/obj/Debug/net6.0/Words.csproj.AssemblyReference.cache
+/home/samuel/SololearnCSharp/Words/obj/Debug/net6.0/Words.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/SololearnCSharp/Words/obj/Debug/net6.0/Words.AssemblyInfoInputs.cache
+/home/samuel/SololearnCSharp/Words/obj/Debug/net6.0/Words.AssemblyInfo.cs
+/home/samuel/SololearnCSharp/Words/obj/Debug/net6.0/Words.csproj.CoreCompileInputs.cache
+/home/samuel/SololearnCSharp/Words/bin/Debug/net6.0/Words
+/home/samuel/SololearnCSharp/Words/bin/Debug/net6.0/Words.deps.json
+/home/samuel/SololearnCSharp/Words/bin/Debug/net6.0/Words.runtimeconfig.json
+/home/samuel/SololearnCSharp/Words/bin/Debug/net6.0/Words.dll
+/home/samuel/SololearnCSharp/Words/bin/Debug/net6.0/ref/Words.dll
+/home/samuel/SololearnCSharp/Words/bin/Debug/net6.0/Words.pdb
+/home/samuel/SololearnCSharp/Words/obj/Debug/net6.0/Words.dll
+/home/samuel/SololearnCSharp/Words/obj/Debug/net6.0/ref/Words.dll
+/home/samuel/SololearnCSharp/Words/obj/Debug/net6.0/Words.pdb
+/home/samuel/SololearnCSharp/Words/obj/Debug/net6.0/Words.genruntimeconfig.cache

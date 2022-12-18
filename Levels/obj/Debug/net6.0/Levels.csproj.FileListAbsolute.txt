@@ -1,0 +1,15 @@
+/home/samuel/SololearnCSharp/Levels/bin/Debug/net6.0/Levels
+/home/samuel/SololearnCSharp/Levels/bin/Debug/net6.0/Levels.deps.json
+/home/samuel/SololearnCSharp/Levels/bin/Debug/net6.0/Levels.runtimeconfig.json
+/home/samuel/SololearnCSharp/Levels/bin/Debug/net6.0/Levels.dll
+/home/samuel/SololearnCSharp/Levels/bin/Debug/net6.0/ref/Levels.dll
+/home/samuel/SololearnCSharp/Levels/bin/Debug/net6.0/Levels.pdb
+/home/samuel/SololearnCSharp/Levels/obj/Debug/net6.0/Levels.csproj.AssemblyReference.cache
+/home/samuel/SololearnCSharp/Levels/obj/Debug/net6.0/Levels.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/SololearnCSharp/Levels/obj/Debug/net6.0/Levels.AssemblyInfoInputs.cache
+/home/samuel/SololearnCSharp/Levels/obj/Debug/net6.0/Levels.AssemblyInfo.cs
+/home/samuel/SololearnCSharp/Levels/obj/Debug/net6.0/Levels.csproj.CoreCompileInputs.cache
+/home/samuel/SololearnCSharp/Levels/obj/Debug/net6.0/Levels.dll
+/home/samuel/SololearnCSharp/Levels/obj/Debug/net6.0/ref/Levels.dll
+/home/samuel/SololearnCSharp/Levels/obj/Debug/net6.0/Levels.pdb
+/home/samuel/SololearnCSharp/Levels/obj/Debug/net6.0/Levels.genruntimeconfig.cache

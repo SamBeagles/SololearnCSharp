@@ -1,0 +1,15 @@
+/home/samuel/SololearnCSharp/SocialNetwork/obj/Debug/net6.0/SocialNetwork.csproj.AssemblyReference.cache
+/home/samuel/SololearnCSharp/SocialNetwork/obj/Debug/net6.0/SocialNetwork.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/SololearnCSharp/SocialNetwork/obj/Debug/net6.0/SocialNetwork.AssemblyInfoInputs.cache
+/home/samuel/SololearnCSharp/SocialNetwork/obj/Debug/net6.0/SocialNetwork.AssemblyInfo.cs
+/home/samuel/SololearnCSharp/SocialNetwork/obj/Debug/net6.0/SocialNetwork.csproj.CoreCompileInputs.cache
+/home/samuel/SololearnCSharp/SocialNetwork/bin/Debug/net6.0/SocialNetwork
+/home/samuel/SololearnCSharp/SocialNetwork/bin/Debug/net6.0/SocialNetwork.deps.json
+/home/samuel/SololearnCSharp/SocialNetwork/bin/Debug/net6.0/SocialNetwork.runtimeconfig.json
+/home/samuel/SololearnCSharp/SocialNetwork/bin/Debug/net6.0/SocialNetwork.dll
+/home/samuel/SololearnCSharp/SocialNetwork/bin/Debug/net6.0/ref/SocialNetwork.dll
+/home/samuel/SololearnCSharp/SocialNetwork/bin/Debug/net6.0/SocialNetwork.pdb
+/home/samuel/SololearnCSharp/SocialNetwork/obj/Debug/net6.0/SocialNetwork.dll
+/home/samuel/SololearnCSharp/SocialNetwork/obj/Debug/net6.0/ref/SocialNetwork.dll
+/home/samuel/SololearnCSharp/SocialNetwork/obj/Debug/net6.0/SocialNetwork.pdb
+/home/samuel/SololearnCSharp/SocialNetwork/obj/Debug/net6.0/SocialNetwork.genruntimeconfig.cache
